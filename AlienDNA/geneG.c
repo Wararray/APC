@@ -58,7 +58,8 @@ int main()
 }
 
 
-/*    setCreature(){
+/*    setCreature()
+{
         
         switch()
             case 1: //Sweet Water
@@ -89,15 +90,57 @@ int main()
 */
 
     //Please, use easy values =]
-    char[] setSweetWater(float percent, float amostral){
+    char[] setSweetWater(float percent, float amostral)
+    {
     
         int geneQuantity = percent*amostral;
         int geneMaster   = 1;
         int geneOther    = 1;
+        int random       = 0; 
         int done         = 0;
-        while ( done == 0 ) {
-            geneMaster = putGene();
-            geneOther  =
+        char[] finalGene;
+
+        while ( done == 0 ) 
+        {
+            //randomic seed: 1 (Afin) or 2(Phob)
+            if (seed == 1)
+            {
+                //randomic seed: 1(Afin) or 2(intersection)
+                if (seed == 1)
+                 {
+                    //PUTAFIN
+                    //CHOOSE CHAR
+                    //PUT AFIN
+                    geneMaster++
+                 }
+                 else
+                 {
+                    //PUT PHOBIA
+                    //CHOOSE CHAR
+                    //PUT AFIN
+                 } 
+            }
+            //
+            else
+            {
+                //randomic seed: 1(PHOBIA) or 2(intersection)
+                if (seed == 1)
+                 {
+                    //PUT PHOBIA
+                    //CHOOSE CHAR
+                    //PUT PHOBIA
+                    geneOther++;
+                 }
+                 else
+                 {
+                    //PUT AFIN
+                    //CHOOSE CHAR
+                    //PUT PHOBIA
+                 }   
+            
+               if ( (geneOther + geneMaster) == (amostral) )
+                   done = 1;
+            }
         }
 
         // Less Hydrofobic  ????

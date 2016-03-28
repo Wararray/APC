@@ -13,38 +13,42 @@
     const   char   DESERT[]      = {"TTTAAT"};
     const   char   FLOREST[]     = {"TTT"};
     const   char   POLAR[]       = {"ATACGAAT"};
-    //const   char   FIRE[]        = {"TAA"};
+    const   char   FIRE[]        = {"TAA"};
 
     //Phobia
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
+    const   char   F_AIR[]       = {"GTGTAAT"};
+    const   char   F_FIRE[]      = {"GTGTTAA"};
+    const   char   F_WATER[]     = {"GTGTATA"};
+    const   char   F_EARTH[]     = {"GTGTTTT"};
     
+
     //Affinity
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
+    const   char   A_AIR[]       = {"TGTGAAT"};
+    const   char   A_FIRE[]      = {"TGTGTAA"};
+    const   char   A_WATER[]     = {"TGTGATA"};
+    const   char   A_EARTG[]     = {"TGTGTTT"};
     
+
     //Particulars
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
+    const   char   P1[]          = {"1"};
+    const   char   P2[]          = {"2"};
+    const   char   P3[]          = {"3"};
+    const   char   P4[]          = {"4"};
+    const   char   P5[]          = {"5"};
+    const   char   P6[]          = {"6"};
+    const   char   P7[]          = {"7"};
 
     //Not Coding
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
-    const   char   [] = {""};
+    const   char   u1_1[]        = {"U"};
+    const   char   u2_1[]        = {"UA"};
+    const   char   u2_2[]        = {"UG"};
+    const   char   u3_1[]        = {"UAU"};
+    const   char   u3_2[]        = {"UGU"};
+    const   char   u4_1[]        = {"UATU"};
+    const   char   u4_2[]        = {"UGCU"};
+    const   char   u5_1[]        = {"UGCTU"};
+    const   char   u5_2[]        = {"AAAAA"};
+    const   char   u5_3[]        = {"GGGGG"};
 
 
 int main()

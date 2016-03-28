@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+void setSweetWater(float percent, float amostral, int greatTotal);
+
 //GENE_WORDS_CONSTANTS
 
     //Habitat
@@ -51,6 +53,7 @@
     const   char   u5_3[]        = {"GGGGG"};
 
 
+
 int main()
 {
     // setCreature(); Capture what creature I want to create
@@ -89,29 +92,34 @@ int main()
     }
 */
 
+
+    // The first two Parameters are for the First Check Decision;
+    // The Tird is for "Great count amount"
     //Please, use easy values =]
-    char[] setSweetWater(float percent, float amostral)
+    void setSweetWater(float percent, float amostral, int greatTotal)
     {
     
-        int geneQuantity = percent*amostral;
-        int geneMaster   = 1;
-        int geneOther    = 1;
-        int random       = 0; 
-        int done         = 0;
-        char[] finalGene;
+        int   geneQuantity  =  percent*amostral;
+        int   geneMaster    =  0;
+        int   geneOther     =  0;
+        int   geneAway      =  0;
+        int   geneRight     =  0;
+        int   random        =  0; 
+        int   done          =  0;
+        char* finalGene;
 
         while ( done == 0 ) 
         {
-            //randomic seed: 1 (Afin) or 2(Phob)
-            if (seed == 1)
+            //randomic random: 1 (Afin) or 2(Phob)
+            if (random == 1)
             {
-                //randomic seed: 1(Afin) or 2(intersection)
-                if (seed == 1)
+                //randomic random: 1(Afin) or 2(intersection)
+                if (random == 1)
                  {
                     //PUTAFIN
                     //CHOOSE CHAR
                     //PUT AFIN
-                    geneMaster++
+                    geneMaster++;
                  }
                  else
                  {
@@ -119,12 +127,16 @@ int main()
                     //CHOOSE CHAR
                     //PUT AFIN
                  } 
+            
+                //Put_GeneAway;
+                    //Gene_away++
+
             }
             //
             else
             {
-                //randomic seed: 1(PHOBIA) or 2(intersection)
-                if (seed == 1)
+                //randomic random: 1(PHOBIA) or 2(intersection)
+                if (random == 1)
                  {
                     //PUT PHOBIA
                     //CHOOSE CHAR
@@ -137,10 +149,12 @@ int main()
                     //CHOOSE CHAR
                     //PUT PHOBIA
                  }   
-            
-               if ( (geneOther + geneMaster) == (amostral) )
-                   done = 1;
+                //put_geneRigh
+                    //put_geneRight++;               
             }
+
+            if ( ((geneOther + geneMaster) == (amostral)) && (geneRight + geneAway) == (greatTotal) )
+                   done = 1;
         }
 
         // Less Hydrofobic  ????

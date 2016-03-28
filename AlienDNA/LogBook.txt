@@ -1,0 +1,42 @@
+Diário de Bordo - Missão Oya
+
+%
+%
+%
+%
+
+
+1ª Parte: correção do DNA
+
+[AGC***GTCA***TGATCGATCG*]
+[TCGAAC****AAA**********A]
+
+
+
+2ª Parte: Como saber o habitat dessa espécie?
+
+[ 1 ] - 1º Critério: Probabilidade de Afinidade;
+
+
+
+[ 2 ] - 2º Critério: Peso Individual;
+
+
+
+[ 3 ] - 3º Critério: Análise da Intersecção;
+
+
+Perguntas?
+    
+    - Quantos trechos estão danificados em cada fita?
+    - Quantos genes não Codificantes existem em cada fita?
+    - Quantos genes de Fobia Pura pra cada característica de cada habitat?
+    - Quantos genes de Afinidade Pura pra cada característica de cada habitat?
+    - Quantos genes de Afinidade/Fobia (nessa ordem) pra cada característica de cada habitat?
+    - Quantos genes de Fobia/Afinidade (nessa ordem) pra cada característica de cada habitat?
+
+    - Qual a probabilidade dele ser de CADA Habitat?
+    - Qual a probabilidade dele estar relacionado ao gene Ar?
+    - Qual a probabilidade dele estar relacionado ao gene Água?
+    - Qual a probabilidade dele estar relacionado ao gene Fogo?
+    - Qual a probabilidade dele estar relacionado ao gene Terra?

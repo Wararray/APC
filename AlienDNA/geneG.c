@@ -57,6 +57,7 @@ void setSweetWater(float percent, float amostral, int greatTotal);
 int main()
 {
     // setCreature(); Capture what creature I want to create
+    // destroyPartsOfGene();
     return 0;    
 }
 
@@ -136,7 +137,7 @@ int main()
             else
             {
                 //randomic random: 1(PHOBIA) or 2(intersection)
-                if (random == 1)
+                if (random == 1) //< q max
                  {
                     //PUT PHOBIA
                     //CHOOSE CHAR

@@ -28,12 +28,12 @@ Diário de Bordo - Missão Oya
 
 Perguntas?
     
-    - Quantos trechos estão danificados em cada fita?
-    - Quantos genes não Codificantes existem em cada fita?
-    - Quantos genes de Fobia Pura pra cada característica de cada habitat?
-    - Quantos genes de Afinidade Pura pra cada característica de cada habitat?
-    - Quantos genes de Afinidade/Fobia (nessa ordem) pra cada característica de cada habitat?
-    - Quantos genes de Fobia/Afinidade (nessa ordem) pra cada característica de cada habitat?
+    - Quantos trechos estão danificados em CADA fita?
+    - Quantos genes não Codificantes existem em CADA fita?
+    - Quantos genes de Fobia Pura pra CADA característica de CADA habitat?
+    - Quantos genes de Afinidade Pura pra CADA característica de CADA habitat?
+    - Quantos genes de Afinidade/Fobia (nessa ordem) pra CADA característica de CADA habitat?
+    - Quantos genes de Fobia/Afinidade (nessa ordem) pra CADA característica de CADA habitat?
 
     - Qual a probabilidade dele ser de CADA Habitat?
     - Qual a probabilidade dele estar relacionado ao gene Ar?

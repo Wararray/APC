@@ -1,0 +1,97 @@
+Cara tenente Koike, C. da Tropa 113476,
+
+    Este é um documento ultra-secreto, sob ordem de sigilo Alfa, assinado pelo próprio Imperador da Galáxia. Como se sabe pela grande mídia, o primeiro Planeta com vida não oriunda do nosso antigo centro Galáctico, carinhosamente chamado de Terra pelos nossos antepassados, foi encontrado. 
+    Há muito temos procurado. Há muito buscamos e falhamos,consecutivas vezes. Mas conseguimos. 
+    O que todos sabem é que enviamos uma tripulação com todo tipo de cientistas e uma colossal nave de exploração para órbita do planeta Delta-birth17091993-42-Z, que chamamos de Oya agora.
+    Contudo, o que não sabem dentro dos corredores de notícias inventadas e dissimuladas da Via Láctea é que este não é um planeta em nenhum canto conhecido do univero visível dos nossos radares. 
+    Encontramos este planeta com uma sonda de anomalias temporais. Arriscamos muito mandando mulheres e homens corajosos até lá, mesmo sem saber se voltariam.
+    E infelizmente, a grande verdade, é que não voltaram. 
+    Estão todos mortos.
+
+    E nossa última esperança é você. 
+
+    Nossa inteligência suspeita de um ataque. Sim, um ataque. Não sabemos de que tipo, nem o quê os atacou... Ou quem...
+    Nosso último recurso para entender esse mistério e nos prepararmos para um futuro tão incerto é com você. Apenas você tem recusos e uma mente capaz de nos fornecer mais pistas e respostas.
+
+    Não podiamos ter explicado isso antes. Por isso mesmo que essa mensagem só se abriu agora, 3 semanas depois de você ter partido e estar há menos de algumas horas da anamalia temporal que levará você a este espaço desconhecido.
+
+    Tudo o que temos são fragmentos de DNA das diversas coletas que nossos especialistas fizeram antes de pararem de se comunicar por meio da fenda. Pela distorção no espaço-tempo causadas, mensagens levam um tempo ainda não determinado para chegar. Estimamos que, dado o volume de dados, eles morreram 10 dias* depois de chegar, nos deixando apenas com trechos quase imcompreensíveis de informação.
+
+    Estamos mandando anexado a esta carta os pedaçõs de informações e orientações para que você tenha com o que trabalhar, como o DNA mapeado de algumas espécies terrestres para eventuais associações de características. O Android modelo Wararray, de nome B-randoniac estará a disposiçã o para o trabalho de processamento e navegãção. Usem-no com sabedoria.
+
+    Tenha cuidado. Seja esperto. Não seja comida nem vítima de nada. 
+
+    Aguardamos contato em 10 dias* ou daremos você como morto.
+
+
+    Com saudações pela bravura e heroísmo,
+    Centro do Comando de Pesquisas Inter-espaciais.
+    Império Galáctico, ano 120.044.749, Era Imperial. 
+
+    Senha:
+    ****************************
+    *matriculaChallengeAccepted*
+    ****************************
+
+    ~~~~~~~  
+
+Conteúdo do Arquivo*
+
+*1ª Cadeia de Resíduo de Calcário de um Deserto:
+
+AGT***GGTA*GATTT*A*TTGTA***GTAAA*AAA*TAGAGA**TAGGGGAAA**GTTTGA*** [...]
+
+*2ª Cadeia de Resíduo de Calcário de um Deserto:
+
+ACAAGT [...]......................................................
+
+
+    -Pode conter erros;
+        -> Assumir um e Depois outro.
+        -> Estipular um valor para margem de Erro;
+
+Mamíferos:
+    - Resistem ao frio
+    - Pelos
+    - Polegar Opositor 
+    - Nadadeiras
+    ... 
+
+Genes:
+
+   Genes de Resistência ao frio:
+        1) AGTTA
+        2) GTTTT
+        3) AGAGT
+
+    Gene para pelos:
+        1) GTATT
+
+    DNA Não-Codificante:
+        1)TAGGGGAAA
+        2)AGTAGT
+        3)AGGA
+
+
+...
+
+A ideia do trabalho é:
+
+1) Que eles escolham um método pra ler essa porrada de strings que vamos dar.
+2) Que eles na primeira parte completem as informações perdidas, de preferência comparando 2 vetores de cada vez dos 5 ou  que vamos dar, elemento a elemento. Easy, mas vamos deixar isso sem regras.
+3) Depois de Completas, que eles busquem nessas cadeias 'marcadores' genéticos dados. 
+4) Depois de identificado cada marcador em cada Cadeia Residual, que eles estimem qual são as características desses "animais" 
+    -> Como muitos não viram PE a gente pode usar ensino médio mesmo, só "pesos" e uma tomada de decisão.
+5) Feito as várias ponderações (podemos colocar peso pra cada variável ambiental e outras que damos como CONTANTES pra eles não alterarem) eles devem imprimir um resultado em porcentagens de cada gene achado e, baseado na interpretação desses valores, que "bicho" deveria  ser ou o que esse bicho deveria ser apto a fazer. 
+
+*10 dias é a data limite para entrega de trabalho. Data aqui fictícia, mas que podemos dar uma mexida. 
+
+Bom, deixei essa ultima parte menos detalhada porque são 2h43 da mãnhã e preciso guardar neurônio pra mais tarde. hahaha
+
+MAs isso estar'em um PDF, com Logo do Império Gláctico e tudo o mais.
+
+Enfim, espero poder encontrar a senhora amanhã, naquele horário das 17h.
+
+E por favor, lembre-se:  A senhora é quem manda. Críticas, um "não,isso não presta" ou ajuda ou adorei ou descarte ou "Give Brandon a cookie": tudo tá valendo. Sem palavras doces se não gostar. Se não gostar, achamos algo melhor! =]
+
+Boa nooooite, Fêssora!!! ^_^  

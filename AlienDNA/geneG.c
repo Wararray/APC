@@ -114,7 +114,7 @@ void setSweetWater(float percent, float amostral, int greatTotal)
     int   random        =  0; 
     int   done          =  0;
     int intersection = 0;
-    char* finalGene;
+    char finalGene[(8*(int)amostral)+1];
 
 int i = 0;
 //    printf("setSweerWater::before While done == 0\n");
@@ -124,7 +124,7 @@ int i = 0;
         // random: 1 (Afin) or 2(Phob)
         random = randomic(2); //range of 1 or 2
 //        printf("setSweerWater::after first_random\n");
-        getchar();
+        //getchar();
 //        printf("%d\n", random);
         if (random == 1)
         {

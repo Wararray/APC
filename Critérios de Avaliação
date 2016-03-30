@@ -1,0 +1,36 @@
+Critérios de Avaliação:
+    Você possui 10 pontos de início. A ausência ou falha em implementar com qualidade quaisquer dos aspectos técnicos/subjetivos listados abaixo leva à respectiva dedução de pontos, sob critério do monitor e, em última palavra, a professora. 
+    Obs.: Você pode PERDER ATÉ o valor em colchetes sobre erros do tipo específico.
+
+Estutural
+    [-0,5] Identação;
+    [-0,3] Organização, Legibilidade e Padrões;
+    [-0,2] Variáveis Mnemônicas;
+
+    [-0,3] ReadMe;
+    [-0,2] Identificação;
+
+Uso de conceitos Fundamentais
+    [-0,5] Armazenamento de Variável/Constantes;
+    [-0,5] Uso de String;
+    [-1,0] Aquisição de informação;
+
+    [-0,5] Input/Output;
+    [-0,5] Pesquisa e varredura em vetor;
+
+    [-0,5] Comparações (if/else);
+
+Lógica e Implementação
+    [-3,0] Valor de saída correto;
+    [-1,0] Padrão de saída adequado;
+    [-1,0] Segmentação de Informação;
+
+Extras
+    [+1,0] Otimização de Recurso Computacional;
+    [+1,0] Otimização de Cálculo Matemático;
+    [+0,5] Código Auto-Comentado/Boa Documentação.
+    [+1,0] Pensamento Diferente
+
+
+Aí aqui colocamos umas observações, tais como: Cola é Zero, usar algo além das biblotecas stdio.h ou stdlib.h é proibido.
+
